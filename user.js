@@ -1,0 +1,14 @@
+user_pref("extensions.pocket.enabled",  false);
+user_pref("toolkit.telemetry.enabled",  false);
+user_perf("extensions.pocket.showHome", false);
+user_perf("geo.enabled",                false);
+user_perf("browser.aboutwelcome.enabled", false);
+user_perf("browser.download.useDownloadDir", false);
+user_perf("browser.search.widget.inNavBar",  true);
+user_perf("browser.tabs.firefox-view",		false);
+user_perf("identity.fxaccounts.enabled",    false);
+user_pref("browser.search.suggest.enabled", false);
+user_perf("browser.shell.shortcutFavicons", true);
+user_perf("dom.security.https_only_mode", true);
+user_perf("webgl.disabled",               true);
+user_perf("browser.urlbar.suggest.searches", false);
